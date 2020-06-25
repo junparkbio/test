@@ -1,1 +1,2 @@
-print('hello fgsdfgsdfgdsfg')
+print('hello ')
+print('nnn')
